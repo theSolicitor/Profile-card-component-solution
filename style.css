@@ -1,0 +1,65 @@
+*{
+	margin: 0 auto;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'kumbh sans', sans-serif;
+	color: hsl(0, 11%, 12%);
+	height: ;
+}
+
+section{
+	background: hsl(185, 75%, 39%);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	height: 100vh;
+}
+
+.card{
+	width: 350px;
+	border-radius: 20px;
+	background: white;
+	overflow: hidden;
+	text-align: center;
+}
+
+.card-header{
+	background-image: url('images/bg-pattern-card.svg');
+	background-size: cover;
+	height: 150px;
+}
+
+.card-body{
+	padding: 0 20px 30px;
+}
+
+.img-holder{
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	border: 5px solid white;
+	overflow: hidden;
+	margin: -50px auto 30px auto;
+}
+
+.img-holder img{
+	width: 100%;
+	height: auto;
+	display: block;
+	border-radius: 50px;
+}
+
+.name-age{
+	font-size: 1rem;
+	margin-bottom: 20px;
+}
+
+.age,.city,.meta{
+	font-weight: 400;
+	color: hsl(0, 11%, 12%);
+	opacity: .6;
+}
