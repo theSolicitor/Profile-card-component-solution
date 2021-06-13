@@ -11,8 +11,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -25,8 +23,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://codepen.io/thesolicitor/pen/jOBQBqP)
-- Live Site URL: [Add live site URL here](https://thesolicitor.github.io/Profile-card-component-solution/)
+- Solution URL: [Code Pen](https://codepen.io/thesolicitor/pen/jOBQBqP)
+- Live Site URL: [Preview From Github Pages](https://thesolicitor.github.io/Profile-card-component-solution/)
 
 ### Built with
 
